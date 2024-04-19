@@ -1,0 +1,71 @@
+body {
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    line-height: 1.5;
+  }
+  
+  h1 {
+    font-size: 28px;
+    margin-bottom: 10px;
+  }
+  
+  h2 {
+    font-size: 20px;
+    margin-bottom: 5px;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  li {
+    margin-bottom: 5px;
+  }
+  
+  a {
+    text-decoration: none;
+    color: #000;
+  }
+  
+  /* 版面样式 */
+  
+  header {
+    background-color: #f1f1f1;
+    padding: 10px;
+  }
+  
+  main {
+    padding: 20px;
+  }
+  
+  section {
+    margin-bottom: 20px;
+  }
+  
+  /* 宣传栏样式 */
+  
+  #promo {
+    background-color: #eee;
+    padding: 20px;
+    border: 1px solid #ccc;
+  }
+  
+  #promo p {
+    margin-bottom: 10px;
+  }
+  
+  #promo a {
+    background-color: #000;
+    color: #fff;
+    padding: 5px 10px;
+    text-decoration: none;
+  }
+  
+  /* 页脚样式 */
+  
+  footer {
+    background-color: #f1f1f1;
+    padding: 10px;
+    text-align: center;
+  }
